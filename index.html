@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora de Juros</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="calculator">
+    <h1>Calculadora de Juros</h1>
+    <div class="input-group">
+      <label for="principal">Valor Principal:</label>
+      <input type="number" id="principal" min="0" step="0.01" required>
+    </div>
+    <div class="input-group">
+      <label for="interest-rate">Taxa de Juros:</label>
+      <input type="number" id="interest-rate" min="0" max="100" step="0.01" required>
+    </div>
+    <div class="input-group">
+      <label for="term">Prazo (em meses):</label>
+      <input type="number" id="term" min="1" max="360" required>
+    </div>
+    <div class="input-group">
+      <label for="interest-type">Tipo de Juros:</label>
+      <select id="interest-type" required>
+        <option value="simple">Juros Simples</option>
+        <option value="compound">Juros Compostos</option>
+      </select>
+    </div>
+    <div class="output-group">
+      <label for="interest">Juros:</label>
+      <output id="interest"></output>
+    </div>
+    <div class="button-group">
+      <button id="calculate-btn">Calcular</button>
+      <button id="clear-btn">Limpar</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
