@@ -5,7 +5,7 @@
 
 Aplicação desenvolvida para adição de notas na disciplina de Programação Web do curso Tecnico em Informática na EEEP Manoel Mano no 1°Bimestre do 2° Ano do ensino Médio
 
-![](Capturar.png)
+![](Trabalho-Desenvolvimento-Web-----Primeiro-Bimestre/Capturar.PNG)
 
 ## Instalação
 
