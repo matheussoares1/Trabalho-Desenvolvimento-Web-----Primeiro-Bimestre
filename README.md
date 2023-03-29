@@ -28,7 +28,7 @@ Esta aplicação foi desenvolvida usando HTML5, CSS3 e javascript, sendo seus us
 ## Meta
 
 Matheus Soares – [@matheussoares1](https://github.com/matheussoares1)
-Samuel Portela - [@matheussoares1](https://github.com/matheussoares1)
+Samuel Portela - [@Samuelzr](https://github.com/Samuelzr)
 
 
 ## Orientador
