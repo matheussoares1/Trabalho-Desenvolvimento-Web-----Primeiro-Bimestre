@@ -1,21 +1,36 @@
-Calculadora de Juros
-Este projeto consiste em uma aplicação web que permite calcular os juros simples e compostos de um investimento. A aplicação possui uma interface profissional, atraente e interativa, onde o usuário pode informar o valor do investimento, o tipo de juros, a taxa de juros e a quantidade de meses. Além disso, a aplicação conta com um botão para calcular os juros e exibir o resultado, bem como um botão para mudar o tema da página entre claro e escuro.
+# Calculadora de Juros
+> Aplicação para calculos de Juros Simples e Compostos
 
-Funcionalidades
-Cálculo de juros simples e compostos;
-Mudança de tema entre claro e escuro;
-Armazenamento do tema escolhido pelo usuário.
-Como utilizar
-Faça o download ou clone o repositório para a sua máquina;
-Abra o arquivo index.html em um navegador web;
-Preencha os campos com os valores desejados;
-Clique no botão "Calcular" para obter o resultado;
-Utilize o botão "Mudar Tema" para alternar entre o tema claro e escuro.
-Tecnologias utilizadas
-HTML5;
-CSS3;
-JavaScript.
-Frameworks utilizados
-Bootstrap 5.
-Considerações finais
-Este projeto é apenas um exemplo de como uma aplicação web pode ser desenvolvida utilizando tecnologias como HTML5, CSS3 e JavaScript, bem como frameworks como Bootstrap 5. É importante destacar que o código apresentado pode ser melhorado e aprimorado para atender às necessidades específicas de um determinado projeto ou aplicação.
+
+
+Aplicação desenvolvida para adição de notas na disciplina de Programação Web do curso Tecnico em Informática na EEEP Manoel Mano no 1°Bimestre do 2° Ano do ensino Médio
+
+![](Capturar.png)
+
+## Instalação
+
+Via repositório Github:
+
+```sh
+Acesse o repositório onde está alocado os arquivos da aplicação no perfil @matheussoares1, via Github.
+```
+
+```sh
+Ao acessar, clique na opção Code e clique em Download ZIP
+```
+
+## Informações da Aplicação
+
+Use a aplicação para calcular o juros simples e compostos, apresentando no final do calculo apenas a quantidade de juros que será pago no final sem a adição do valor inicial.
+
+Esta aplicação foi desenvolvida usando HTML5, CSS3 e javascript, sendo seus usos totalmente puros, sem uso de frameworks externos.
+
+## Meta
+
+Matheus Soares – [@matheussoares1](https://github.com/matheussoares1)
+Samuel Portela - [@matheussoares1](https://github.com/matheussoares1)
+
+
+## Orientador
+
+Adeilso Aragão - [@adeilsoara](https://github.com/Adeilsoara)
